@@ -31,8 +31,6 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-> Optional extras like `xgboost` and `shap` are **not required** for this baseline, but can be added if desired.
-
 ---
 
 ## How to Run
