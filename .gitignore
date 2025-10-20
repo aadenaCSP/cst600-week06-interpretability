@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.venv/
+venv/
+ENV/
+env/
+.build/
+dist/
+build/
+pip-wheel-metadata/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Data & outputs
+data/raw/*
+!data/raw/.gitkeep
+figures/*
+!figures/.gitkeep
+outputs/
